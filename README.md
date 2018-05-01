@@ -1,6 +1,6 @@
 # check-code
 
-> this is short message code check
+>把短信验证写到localstorage里面,防止页面刷新的时候短信验证失效
 
 ## Build Setup
 

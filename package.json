@@ -1,7 +1,7 @@
 {
   "name": "check-code",
   "version": "1.0.0",
-  "description": "this is short message code check",
+  "description": "把短信验证写到localstorage里面,防止页面刷新的时候短信验证失效",
   "author": "Cynthia",
   "private": true,
   "scripts": {
